@@ -1,3 +1,4 @@
+<a href="https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf">Paper Link</a>
 # Spanner Paper
 
 **What is Spanner?**
